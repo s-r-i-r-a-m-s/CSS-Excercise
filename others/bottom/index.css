@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.child6{
+    width: 25%;
+    height: 300px;
+
+    margin: 30px;
+    padding: 10px;
+}
+.child6 h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.child6 p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.parent6{
+    display: flex;
+}
+.ratings{
+    margin-top: 80px;
+    font-size: 5px;
+}
+.ratings2{
+    margin-top: 120px;
+}
+.child6 img{
+    margin-bottom: 50px;
+}
