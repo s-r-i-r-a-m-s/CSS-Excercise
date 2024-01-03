@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.parent{
+   margin: 50px;
+   padding: 30px;
+   border: 1px solid black;
+   width: 40%;
+   background-color: rgb(186, 215, 241);
+}
+label,input{
+    margin: 10px;
+    font-size: 15px;
+}
+label{
+    font-weight: bold;
+    font-size: 19px;
+}
+input{
+    height: 22px;
+}
+h1{
+    margin-left: 80px;
+    margin-bottom: 20px;
+}
+p{
+    font-size: 14px;
+    margin-left: 10px;
+}
+hr{
+    margin: 6px;
+}

@@ -1,0 +1,21 @@
+.item1{
+    grid-area: head;
+}
+.item2{
+    grid-area: menu;
+}
+.item3{
+    grid-area: main;
+}
+.item4{
+    grid-area: right;
+}
+.item15{
+    grid-area: footer;
+}
+.grid-container{
+    display: grid;
+    grid-template-areas: 'head head head head head head'
+   
+    ;
+}

@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+
+}
+nav{
+    background-color: #0E2954;
+    width: 100%;
+    height: 100px;
+    color:#84A7A1 ;
+}
+.nav-list h1,p{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+}
+.head1{
+    display: flex;
+    justify-content: center;
+    color:#000000;
+    background-color:#068FFF;
+}
+.con1{
+    padding: 10px;
+    margin: 10px;
+}
+.con1 label,input{
+    font-size: 17px;
+    margin: 5px;
+}
+.con1 label{
+    margin: 40px;
+    font-weight: bold;
+}
+.head2{
+    display: flex;
+    justify-content: center;
+    color:#000000;
+    background-color:#068FFF;
+}
+.con2{
+    padding: 10px;
+    margin: 10px;
+}
+.con2 label,input{
+    font-size: 17px;
+    margin: 10px;
+}
+.con2 label{
+    margin: 10px;
+    font-weight: bold;
+}
+.con2-left{
+    float: left;
+    margin-left: 100px;
+}
+.con2-left input{
+   position: relative;
+   left: 100px;
+}
+.gn{
+    margin-left: -90px;
+}
+.fo{
+    margin-left: -56px;
+}
+.ri{
+    position: relative;
+    left: 90px;
+}
+.rb{
+    margin-left: 30px;
+    padding: 1px;
+}
+.con2-right{
+    float: right;
+    margin-right: 200px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.head3{
+    display: flex;
+    justify-content: center;
+    color:#000000;
+    background-color:#068FFF;
+}
+.con3 label,input{
+    margin: 5px;
+    font-size: 18px;
+}
+.con3 input{
+    font-size: 20px;
+}
+.con3-left{
+    float: left;
+    margin-left: 300px;
+    margin-top: 20px;
+}
+.con3-right{
+    float: right;
+    margin-right: 300px;
+    margin-top: 20px;
+}
